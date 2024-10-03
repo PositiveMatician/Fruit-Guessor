@@ -56,7 +56,11 @@
    Open your browser and go to `http://127.0.0.1:5000/` to start playing **Fruit Guessor**!
 
 ---
+## Demo 🎮
 
+Try out the live version of **Fruit Guessor** here: [Fruit Guessor Demo](https://fruitguesser.pythonanywhere.com/)
+
+---
 ## Contributions 🤝
 We welcome contributions! Feel free to open issues or submit pull requests to improve the game.
 
